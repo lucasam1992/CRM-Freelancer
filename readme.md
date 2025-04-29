@@ -1,18 +1,7 @@
 
 # 🧠 CRM para Freelancers
 
-
 Este projeto é um CRM (Customer Relationship Management) focado em freelancers, que gerencia clientes, propostas, contratos, produtividade, finanças e comunicação integrada.
-
-Construído com a stack:
-
-NestJS (API Back-end)
-
-Banco de dados SQL (PostgreSQL)
-
-WebSocket para notificações em tempo real
-
-Integrações planejadas: ...
 
 ## ✨ Funcionalidades do MVP
 Gestão de Clientes (cadastro, atualização, exclusão)
