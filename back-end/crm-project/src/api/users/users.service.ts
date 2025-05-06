@@ -11,8 +11,8 @@ export class UsersService {
     return await this.usersRepository.create(createUserDto);
   }
 
-  findAll() {
-    return `This action returns all users`;
+  async findAll() {
+    return await this.usersRepository.findAll();
   }
 
   findOne(id: number) {
